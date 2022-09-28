@@ -66,8 +66,6 @@ namespace pryDoloresBibloteca
         private void btnAtras_Click(object sender, EventArgs e)
         {
 
-            lstLibros.Items.Clear();
-
             i--;
             if (i >= 0)
             {
